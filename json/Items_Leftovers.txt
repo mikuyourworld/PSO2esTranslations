@@ -2100,6 +2100,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "クリティカルフィールド",
+		"tr_text": "暴擊領域",
+		"jp_explain": "",
+		"tr_explain": "在自己的周圍，展開提高暴擊率的領域",
+		"assign": 0
+	},
+	{
 		"jp_text": "ボルトテックＰＰセイブ",
 		"tr_text": "雷系法術PP節約",
 		"jp_explain": "",
